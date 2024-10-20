@@ -1,0 +1,260 @@
+
+.buy-on-rent{
+    width: 114px;
+height: 37px;
+top: 123px;
+left: 154px;
+gap: 0px;
+border-radius: 10px;
+border: 1px solid;
+opacity: 0px;
+
+}
+.add-to-cart-cont{
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    width: 149px;
+    justify-content: center;
+height: 37px;
+top: 123px;
+gap: 0px;
+border-radius: 10px;
+opacity: 0px;
+
+background: #165315;
+
+
+
+}
+
+.plus-btn{
+    width: 14px;
+height: 30px;
+top: 126px;
+left: 129px;
+gap: 0px;
+opacity: 0px;
+border: none;
+background-color: transparent;
+color: #ffffff;
+
+
+
+}
+.minus-btn{
+    width: 12px;
+height: 30px;
+top: 126px;
+left: 10px;
+gap: 0px;
+opacity: 0px;
+border: none;
+background-color: transparent;
+color: #ffffff;
+
+
+
+}
+.cart-heading{
+    font-family: Poppins;
+font-size: 17px;
+font-weight: 400;
+line-height: 25.5px;
+text-align: center;
+width: 80px;
+height: 26px;
+top: 37px;
+left: 186px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+
+.heading{
+    width: 230px;
+height: 83px;
+top: 146px;
+left: 112px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+text-align: center;
+
+}
+
+.img{
+    max-height: 246px;
+}
+
+.cart-image{
+    width: 97px;
+height: 98px;
+top: 271px;
+left: 178px;
+gap: 0px;
+opacity: 0px;
+padding-top: 30px;
+
+}
+.product-main-cont{
+    margin: 20px;
+}
+
+.cart-description{
+    width: 422px;
+height: 39px;
+top: 411px;
+left: 16px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+text-align: center;
+margin: 100px;
+color:#165315;
+
+}
+
+.continue-shopping-btn{
+    width: 307px;
+height: 45px;
+top: 514px;
+left: 73px;
+gap: 0px;
+opacity: 0px;
+background-color: #165315;
+color: #ffffff;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+text-align: center;
+
+}
+.cross-icon{
+    text-align:right;
+    margin-left: 95%;
+    margin-top: 3px;
+}
+.cart-model{
+    height: 661px;
+    
+    width:453px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.cart-model-cont{
+    border: 2px solid;
+    background-color: #ffffff;
+}
+.add-to-cart-btn{
+    
+height: 24px;
+top: 130px;
+
+border: none;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+background-color: transparent;
+color: #ffffff;
+
+
+}
+.cart-btn-cont{
+    display: flex;
+    justify-content: space-around;
+}
+.price{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color:  #5E5A5AB2;
+text-decoration: line-through
+;
+
+}
+.selling-price{
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+color: #5E5A5A;
+margin-left: 20px;
+
+}
+
+.rating{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+width: 26px;
+height: 22px;
+top: 55px;
+left: 97px;
+gap: 0px;
+opacity: 0px;
+margin-left: 5px;
+
+
+}
+
+.plant-info-cont{
+    box-sizing: border-box;
+    
+}
+.rating-cont{
+    display: flex;
+    align-items: center;
+}
+.price-cont{
+    display: flex;
+    align-items: center;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+}
+
+.view-product-button{
+    margin-top: 20px;
+    background-color: #165315;
+    color: #ffffff;
+    width: 268px;
+    height: 36px;
+}
+h1{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    height: 30px;
+
+}
+.description{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    height: 20px;
+
+}

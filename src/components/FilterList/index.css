@@ -1,0 +1,12 @@
+
+.filter-cont{
+    display: flex;
+    
+    justify-content: space-between;
+    margin: 10px;
+    align-items: center;
+}
+
+hr{
+    width: 95%;
+}

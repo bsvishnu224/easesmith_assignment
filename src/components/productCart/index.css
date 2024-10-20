@@ -1,0 +1,93 @@
+
+
+.option-cont{
+    display: flex;
+    align-items: center;
+}
+
+.option{
+    background-color: #165315;
+    color: #ffffff;
+    width: 139px;
+    height: 36px;
+    margin-left: 30px;
+    
+}
+
+.nusery-item-cont{
+    display: flex;
+    overflow: scroll;
+    
+}
+.plants-list{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.plants-cont{
+    display: flex;
+}
+
+.plant{
+    color: #6A6A6A;
+}
+.filter-main-cont{
+    min-width: 23%;
+    margin-left: 90px;
+    background-color: beige;
+    color: #6E6E6E;
+    margin-right: 30PX;
+}
+
+.filter-cont{
+    display: flex;
+    
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.search-container{
+    display: flex;
+    align-items: center;
+    
+    justify-content: center;
+}
+.search-cont{
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid;
+}
+.search-image{
+    width: 20px;
+}
+.search-bar{
+    border-style: none;
+}
+
+.description-cont{
+    margin: 90px;
+}
+.description{
+    color:#838383;
+    
+}
+.plant-btn{
+    margin-right: 20px;
+    background-color: #165315;
+    color: #ffffff;
+    width: 114px;
+    height: 37px;
+    top: 215px;
+    left: 69px;
+    
+}
+.pot-btn{
+    
+    width: 114px;
+    height: 37px;
+    top: 215px;
+    left: 69px;
+    border: 1px solid;
+    
+}

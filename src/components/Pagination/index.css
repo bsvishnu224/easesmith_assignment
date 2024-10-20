@@ -1,0 +1,12 @@
+.page-num{
+    border: 1px solid;
+    
+    margin: 5px;
+    padding: 5px;
+}
+.page-num-cont{
+    display: flex;
+    width: 100%;
+    
+    justify-content: center;
+}

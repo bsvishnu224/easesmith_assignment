@@ -1,0 +1,13 @@
+.thank-you-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+.thank-you{
+    
+    font-size: 60px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
